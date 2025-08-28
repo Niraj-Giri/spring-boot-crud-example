@@ -71,6 +71,7 @@ Base URL → `http://localhost:8080/products`
 ### Example JSON (POST/PUT)
 ```json
 {
+  "prodId":100,
   "prodName": "Laptop",
   "price": 55000
 }
